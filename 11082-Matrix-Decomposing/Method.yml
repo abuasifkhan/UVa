@@ -1,0 +1,5 @@
+Category: Maxflow-mincut
+
+Take the Row sums and Column sums as nodes. Add dummy source and sink.
+Make edge with source and Rows and columns with sink. Add edge with each rows and columns with
+capacity 19.
